@@ -595,7 +595,7 @@ body.single-blog-details .menu-item-34 a {
 
 .page-wrap .top-Icons{
     width: 100%;
-    background: yellow;
+    background: red;
     display: flex;
     justify-content: space-between;
     position: fixed;
